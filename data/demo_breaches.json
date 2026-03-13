@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Credential leak from third-party partner",
+    "affected_domain": "example.com",
+    "leaked_fields": ["email", "password_hash"],
+    "severity": "high",
+    "first_seen": "2025-02-11",
+    "reference": "https://status.example.com/security/advisory-2025-02-11"
+  },
+  {
+    "title": "Marketing list exposure",
+    "affected_domain": "example.org",
+    "leaked_fields": ["email"],
+    "severity": "medium",
+    "first_seen": "2024-10-01",
+    "reference": "https://example.org/security"
+  }
+]
