@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "file": "credit-001.jpg",
+    "source": "182_0.jpg",
+    "w": 863,
+    "h": 1897
+  },
+  {
+    "id": 2,
+    "file": "credit-002.jpg",
+    "source": "25978_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 3,
+    "file": "credit-003.jpg",
+    "source": "25979_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 4,
+    "file": "credit-004.jpg",
+    "source": "27495_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 5,
+    "file": "credit-005.jpg",
+    "source": "27496_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 6,
+    "file": "credit-006.jpg",
+    "source": "27499_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 7,
+    "file": "credit-007.jpg",
+    "source": "28479_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 8,
+    "file": "credit-008.jpg",
+    "source": "31461_0.jpg",
+    "w": 863,
+    "h": 1897
+  },
+  {
+    "id": 9,
+    "file": "credit-009.jpg",
+    "source": "31504_0.jpg",
+    "w": 720,
+    "h": 961
+  },
+  {
+    "id": 10,
+    "file": "credit-010.jpg",
+    "source": "31505_0.jpg",
+    "w": 719,
+    "h": 980
+  },
+  {
+    "id": 11,
+    "file": "credit-011.jpg",
+    "source": "31505_1.jpg",
+    "w": 719,
+    "h": 980
+  },
+  {
+    "id": 12,
+    "file": "credit-012.jpg",
+    "source": "31506_0.jpg",
+    "w": 720,
+    "h": 932
+  },
+  {
+    "id": 13,
+    "file": "credit-013.jpg",
+    "source": "31506_1.jpg",
+    "w": 720,
+    "h": 932
+  },
+  {
+    "id": 14,
+    "file": "credit-014.jpg",
+    "source": "31507_0.jpg",
+    "w": 720,
+    "h": 887
+  },
+  {
+    "id": 15,
+    "file": "credit-015.jpg",
+    "source": "31507_1.jpg",
+    "w": 720,
+    "h": 887
+  },
+  {
+    "id": 16,
+    "file": "credit-016.jpg",
+    "source": "31508_0.jpg",
+    "w": 720,
+    "h": 1339
+  },
+  {
+    "id": 17,
+    "file": "credit-017.jpg",
+    "source": "31508_1.jpg",
+    "w": 720,
+    "h": 1339
+  },
+  {
+    "id": 18,
+    "file": "credit-018.jpg",
+    "source": "31509_0.jpg",
+    "w": 720,
+    "h": 1084
+  },
+  {
+    "id": 19,
+    "file": "credit-019.jpg",
+    "source": "31510_0.jpg",
+    "w": 720,
+    "h": 1049
+  },
+  {
+    "id": 20,
+    "file": "credit-020.jpg",
+    "source": "31510_1.jpg",
+    "w": 720,
+    "h": 1049
+  },
+  {
+    "id": 21,
+    "file": "credit-021.jpg",
+    "source": "31511_0.jpg",
+    "w": 720,
+    "h": 1057
+  },
+  {
+    "id": 22,
+    "file": "credit-022.jpg",
+    "source": "31511_1.jpg",
+    "w": 720,
+    "h": 1057
+  },
+  {
+    "id": 23,
+    "file": "credit-023.jpg",
+    "source": "31512_0.jpg",
+    "w": 710,
+    "h": 522
+  },
+  {
+    "id": 24,
+    "file": "credit-024.jpg",
+    "source": "31512_1.jpg",
+    "w": 710,
+    "h": 522
+  },
+  {
+    "id": 25,
+    "file": "credit-025.jpg",
+    "source": "33595_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 26,
+    "file": "credit-026.jpg",
+    "source": "33596_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 27,
+    "file": "credit-027.jpg",
+    "source": "33597_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 28,
+    "file": "credit-028.jpg",
+    "source": "35321_0.jpg",
+    "w": 863,
+    "h": 1897
+  },
+  {
+    "id": 29,
+    "file": "credit-029.jpg",
+    "source": "36228_0.jpg",
+    "w": 863,
+    "h": 1897
+  },
+  {
+    "id": 30,
+    "file": "credit-030.jpg",
+    "source": "36229_0.jpg",
+    "w": 863,
+    "h": 1897
+  },
+  {
+    "id": 31,
+    "file": "credit-031.jpg",
+    "source": "36231_0.jpg",
+    "w": 863,
+    "h": 1897
+  },
+  {
+    "id": 32,
+    "file": "credit-032.jpg",
+    "source": "36232_0.jpg",
+    "w": 863,
+    "h": 1897
+  },
+  {
+    "id": 33,
+    "file": "credit-033.jpg",
+    "source": "36237_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 34,
+    "file": "credit-034.jpg",
+    "source": "36238_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 35,
+    "file": "credit-035.jpg",
+    "source": "36239_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 36,
+    "file": "credit-036.jpg",
+    "source": "36240_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 37,
+    "file": "credit-037.jpg",
+    "source": "36241_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 38,
+    "file": "credit-038.jpg",
+    "source": "36242_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 39,
+    "file": "credit-039.jpg",
+    "source": "36243_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 40,
+    "file": "credit-040.jpg",
+    "source": "36244_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 41,
+    "file": "credit-041.jpg",
+    "source": "36534_0.jpg",
+    "w": 720,
+    "h": 695
+  },
+  {
+    "id": 42,
+    "file": "credit-042.jpg",
+    "source": "37262_0.jpg",
+    "w": 717,
+    "h": 1421
+  },
+  {
+    "id": 43,
+    "file": "credit-043.jpg",
+    "source": "37264_0.jpg",
+    "w": 719,
+    "h": 994
+  },
+  {
+    "id": 44,
+    "file": "credit-044.jpg",
+    "source": "37276_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 45,
+    "file": "credit-045.jpg",
+    "source": "37277_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 46,
+    "file": "credit-046.jpg",
+    "source": "37278_0.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 47,
+    "file": "credit-047.jpg",
+    "source": "37278_1.jpg",
+    "w": 858,
+    "h": 1907
+  },
+  {
+    "id": 48,
+    "file": "credit-048.jpg",
+    "source": "41985_0.jpg",
+    "w": 719,
+    "h": 860
+  },
+  {
+    "id": 49,
+    "file": "credit-049.jpg",
+    "source": "41988_0.jpg",
+    "w": 720,
+    "h": 922
+  },
+  {
+    "id": 50,
+    "file": "credit-050.jpg",
+    "source": "41989_0.jpg",
+    "w": 720,
+    "h": 795
+  },
+  {
+    "id": 51,
+    "file": "credit-051.jpg",
+    "source": "41990_0.jpg",
+    "w": 720,
+    "h": 1158
+  },
+  {
+    "id": 52,
+    "file": "credit-052.jpg",
+    "source": "41991_0.jpg",
+    "w": 716,
+    "h": 1207
+  },
+  {
+    "id": 53,
+    "file": "credit-053.jpg",
+    "source": "41992_0.jpg",
+    "w": 718,
+    "h": 1278
+  },
+  {
+    "id": 54,
+    "file": "credit-054.jpg",
+    "source": "41993_0.jpg",
+    "w": 720,
+    "h": 1045
+  }
+]
